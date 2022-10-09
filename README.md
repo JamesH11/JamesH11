@@ -1,7 +1,22 @@
-### Hi there 👋
+<h1>Hello, I'm James! <br/><a href="https://github.com/JamesH11/JamesH11">Student</a> and <a href="www.linkedin.com/in/james-helman-9439ab231">Cybersecurity amature</a></h1>
+
+<h2>👨‍💻 Software Development Projects:</h2>
+
+
+
+<h2>📺 YouTube Videos</h2>
+
+
+<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="James | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+[linkedin]: www.linkedin.com/in/james-helman-9439ab231
 
 <!--
-**JamesH11/JamesH11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JamesH11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
