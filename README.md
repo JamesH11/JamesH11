@@ -4,7 +4,7 @@
 [Active Directory Homelab]:
 
 <h2>📄 Certifications </h2>
-[CompTIA ITF+]
+[CompTIA ITF+] <br>
 [ISC2 CC]
 
 <h2> 🥇 Course badges </h2>
@@ -21,7 +21,7 @@
 [<img align="left" alt="JamesH11 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
 
 
-[linkedin]: www.linkedin.com/in/james-helman-9439ab231
+[linkedin]:www.linkedin.com/in/james-helman-9439ab231
 
 <!--
 **JamesH11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
