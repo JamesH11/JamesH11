@@ -1,6 +1,14 @@
 <h1>Hello, I'm James! </h1>
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
+[Active Directory Homelab]:
+
+<h2>📄 Certifications </h2>
+[CompTIA ITF+]
+[ISC2 CC]
+
+<h2> 🥇 Course badges </h2>
+  
 
 
 
