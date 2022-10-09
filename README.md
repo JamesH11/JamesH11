@@ -4,6 +4,8 @@
 
 - [Active Directory Home Lab](https://github.com/JamesH11/ActiveDirectoryLab)
 - [Nessus Tutorial Vulnerability Management]()
+- [Building a file integrity monitor]()
+- [Azure SIEM lab]()
 
 
 <h2>📄 Certifications </h2>
