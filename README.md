@@ -9,12 +9,20 @@
 
 
 <h2>📄 Certifications </h2>
-[CompTIA ITF+] <br>
-[ISC2 CC]
+
+-[CompTIA ITF+]()
+
+-[ISC² Certified in Cybersecurity]()
+
+MORE TO COME...
 
 <h2> 🥇 Course badges </h2>
  
  - [Cisco Networking Academy Introduction to Cybersecurity]()
+ - [LetsDefend SOC Member Fundamentals]()
+ - [Cisco Networking Academy CyberOps Associate]()
+ - [SkillFront ISO/IEC 27001 Information Security Associate]()
+ - [OPSWAT Academy File Security Associate (OFSA)]()
 
 
 
