@@ -1,7 +1,7 @@
 <h1>Hello, I'm James! </h1>
 
 <h2>👨‍💻 Cybersecurity/IT Projects:</h2>
-- [Active Directory Homelab] (https://github.com/JamesH11/ActiveDirectoryLab)
+- [Active Directory Homelab](https://github.com/JamesH11/ActiveDirectoryLab)
 
 <h2>📄 Certifications </h2>
 [CompTIA ITF+] <br>
